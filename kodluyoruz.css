@@ -1,0 +1,23 @@
+/*------CSS----*/
+h1{
+    color: red;
+    font-size: 30px;
+    margin-top: 50px;
+    
+}
+p{
+    margin-top: 25px;
+}
+h2{
+    color: red;
+    font-size: 20px;
+    margin-top: 50px;
+}
+h3{
+    color: blue;
+    font-size: 20px;
+    margin-top: 25px;
+}
+body{
+    text-align: center;
+}
