@@ -1,0 +1,34 @@
+.bg-color-search{
+    background-color: #EEEEEE;
+}
+.bg-box1{
+ background-color:#72baaa;
+ 
+ width: 30%;
+ height: 80px;
+ float: left;
+ 
+ margin-top: 2px;
+ margin-right: 2px;
+}
+.bg-box2{
+    background-color: #72baaa;;
+    width: 30%;
+    height: 80px;
+    float:left;
+    margin-top: 2px;
+    margin-right: 2px;
+   }
+
+.bg-box3{
+    background-color: #72baaa;
+    width: 38%;
+    height: 80px;
+    float:left;
+    margin-top: 2px;
+   }
+
+.card{
+    width: 90%;
+    margin: auto;
+}
